@@ -19,3 +19,8 @@ name = input()
 print('Please enter your name: ')
 print('Hello ' + name)
 ```
+
+- [x] Check out
+- [ ] This really
+- [ ] Cool List!
+- [x] Whoa NICE!
